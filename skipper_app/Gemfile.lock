@@ -52,6 +52,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.9)
     crass (1.0.6)
+    dotenv (2.7.6)
     erubis (2.7.0)
     execjs (2.8.1)
     ffi (1.15.3)
@@ -166,6 +167,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.2)
+  dotenv
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)

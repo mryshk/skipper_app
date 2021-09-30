@@ -16,6 +16,7 @@
 //= require turbolinks
 //= require_tree .
 
+/* global $ */
 $(document).on('turbolinks:load',function () {
   alert('Hello World')
 });
